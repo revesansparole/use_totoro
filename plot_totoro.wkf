@@ -1,0 +1,23 @@
+{
+  "function": "print", 
+  "inputs": [
+    {
+      "interface": "int", 
+      "default": "0", 
+      "description": "values", 
+      "name": "x"
+    }
+  ], 
+  "description": "plot x", 
+  "author": "unknown", 
+  "outputs": [
+    {
+      "interface": "int", 
+      "description": "miror x input", 
+      "name": "ret"
+    }
+  ], 
+  "version": 0, 
+  "id": "6d39eccf0e1611e693ee308d99c16f56", 
+  "name": "plot"
+}

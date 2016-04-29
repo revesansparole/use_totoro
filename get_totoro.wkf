@@ -1,0 +1,23 @@
+{
+  "function": "random.random", 
+  "inputs": [
+    {
+      "interface": "int", 
+      "default": "0", 
+      "description": "random seed", 
+      "name": "seed"
+    }
+  ], 
+  "description": "Random number", 
+  "author": "unknown", 
+  "outputs": [
+    {
+      "interface": "float", 
+      "description": "random number between 0 and 1", 
+      "name": "ret"
+    }
+  ], 
+  "version": 0, 
+  "id": "5d39eccf0e1611e693ee308d99c16f56", 
+  "name": "totoro"
+}
